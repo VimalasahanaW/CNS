@@ -84,3 +84,7 @@ plain[length] = '\0';
 ## OUTPUT :-
 <img width="427" height="250" alt="image" src="https://github.com/user-attachments/assets/42331a2c-b67e-4831-bec9-8e36367454bf" />
 
+## RESULT :-
+The program implementing the Caesar cipher for encryption and decryption has been successfully 
+executed, and the results have been verified.
+
